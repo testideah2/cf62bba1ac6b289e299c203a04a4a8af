@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.sidimdoma-spb.ru"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. Доставка продуктов по СПб</name>
+    <name>Доставка продуктов по СПб</name>
 
     <description>
         Приложение для заказа продуктов питания и не только для СПб
